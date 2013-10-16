@@ -11,24 +11,5 @@ La metodología RUP, llamada así por sus siglas en inglés Rational Unified Pro
 - Construcción, En esta etapa el objetivo es llevar a obtener la capacidad operacional inicial. 
 - Transmisión, El objetivo es llegar a obtener el release del proyecto. 
 
-Vale mencionar que el ciclo de vida que se desarrolla por cada iteración, es llevada bajo dos disciplinas: 
+Vale mencionar que el ciclo de vida que se desarrolla por cada iteración. Una particularidad de esta metodología es que, en cada ciclo de iteración, se hace exigente el uso de artefactos (Un artefacto puede ser un documento, un modelo, o un elemento de modelo), siendo por este motivo, una de las metodologías más importantes para alcanzar un grado de certificación en el desarrollo del software. La Metodología RUP es más adaptable para proyectos de largo plazo.
 
-Disciplina de Desarrollo.
-
-- Ingeniería de Negocios, Requerimientos, Análisis y Diseño,  Implementación, Pruebas
-
-Disciplina de Soporte.
-
-- Configuración y administración del cambio, Administrando el proyecto, Ambiente, Distribución
-
-Una particularidad de esta metodología es que, en cada ciclo de iteración, se hace exigente el uso de artefactos (Un artefacto puede ser un documento, un modelo, o un elemento de modelo), siendo por este motivo, una de las metodologías más importantes para alcanzar un grado de certificación en el desarrollo del software. 
-La Metodología RUP es más adaptable para proyectos de largo plazo.
-
-
-
-
-Comentarios  (opinión) 
-Por otro lado, en lo que se refiere a la metodología esta comprende tres principios claves: Dirigido por los casos de uso, centrado en la arquitectura, iterativo e incremental.
-En lo referente a dirigido por los casos de uso, significa que los requerimientos están enfocado a dar valor al cliente y que el proceso debe garantizar que todo el desarrollo, pruebas, planeación, documentación etc, está orientado a cubrir estas expectativas del cliente y asegurar que los requerimientos de valor se ponen en producción.
-En lo referente a centrado en arquitectura, significa que hay un énfasis a diseñar una arquitectura de calidad, y es la arquitectura también la que guía la forma cómo se debe planear y hacer el desarrollo.
-En lo referente a iterativo e incremental, significa que el proyecto se divide en varios ciclos de vida (llamadas iteraciones) que deben dar como resultado un ejecutable. Por cada una de las iteraciones se va agregando requerimientos y sobre todo valor al cliente; por este motivo es incremental.
