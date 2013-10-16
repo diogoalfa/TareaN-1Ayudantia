@@ -1,0 +1,328 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Comparación entre 
+\end_layout
+
+\begin_layout Title
+Metodología Agiles y Tradicionales
+\end_layout
+
+\begin_layout Author
+Diego Navia F - Francisco Ramirez - Sebastian Esparza G.
+\end_layout
+
+\begin_layout Date
+17/10/2013
+\end_layout
+
+\begin_layout Chapter
+Metodología Tradicional
+\end_layout
+
+\begin_layout Standard
+wdsdsd
+\end_layout
+
+\begin_layout Standard
+asas
+\end_layout
+
+\begin_layout Standard
+as
+\end_layout
+
+\begin_layout Chapter
+Metodología Agil 
+\end_layout
+
+\begin_layout Section
+Definicion 
+\end_layout
+
+\begin_layout Standard
+Scrum: 
+\end_layout
+
+\begin_layout Standard
+Metodología Ágil que aplica un conjuntos de buenas prácticas para trabajar
+ colaborativamente en equipo, para llevar a cabo un proyecto de software.
+ En esta metodología se va realizando entregas parciales y regulares del
+ producto final.Teniendo en cuenta la jerarquía de importancia al cliente.Orientad
+o a ambientes donde se necesite resultados muy próximos y los requerimientos
+ sean cambiantes o no definidos.Donde la innovación, la competitividad, la
+ flexibilidad y la productividad son fundamentales.
+ También se utiliza para resolver situaciones en que no se está entregando
+ al cliente lo que necesita, cuando las entregas se alargan demasiado, los
+ costes se disparan o la calidad no es aceptable, cuando se necesita capacidad
+ de reacción ante la competencia, cuando la moral de los equipos es baja
+ y la rotación alta, cuando es necesario identificar y solucionar incidencias
+ sistemáticamente o cuando se quiere trabajar utilizando un proceso especializad
+o en el desarrollo de producto
+\end_layout
+
+\begin_layout Standard
+Proceso Scrum:
+\end_layout
+
+\begin_layout Standard
+Esta metodología se implementa en bloques temporales ,cortos y fijos .En
+ iteraciones de más menos 2 semana hasta un mes si es necesario.Cada iteración
+ se tiene resultado completo,un avance consistente del producto final.
+\end_layout
+
+\begin_layout Section
+Actividades 
+\end_layout
+
+\begin_layout Standard
+Actividades en Scrum :
+\end_layout
+
+\begin_layout Standard
+-Planificación de la iteración (Sprint Planning)
+\end_layout
+
+\begin_layout Standard
+-Ejecución de la iteración (Sprint) 
+\end_layout
+
+\begin_layout Standard
+-Reunión diaria de sincronización del equipo (Scrum Daily Meeting)
+\end_layout
+
+\begin_layout Standard
+-Demostración de los requisitos completados (Sprint Review) 
+\end_layout
+
+\begin_layout Standard
+-Retrospectiva (Sprint Retrospective) 
+\end_layout
+
+\begin_layout Standard
+-Re-planificación del proyecto 
+\end_layout
+
+\begin_layout Chapter
+Cuadro Comparativo
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M.
+ Tradicional
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+M.
+ Agil 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Conclusión 
+\end_layout
+
+\begin_layout Chapter
+Bibliografía 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.proyectosagiles.org/como-funciona-scrum
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
