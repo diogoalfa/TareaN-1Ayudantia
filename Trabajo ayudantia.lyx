@@ -226,7 +226,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Users/Diogo/Desktop/Captura de pantalla 2013-10-16 a la(s) 20.09.17.png
+	filename cuadro.png
 	scale 60
 	rotateOrigin leftTop
 
@@ -258,6 +258,24 @@ Cuadro Comparativo entre Metodología Agil y Tradicional
 
 \begin_layout Chapter
 Conclusión 
+\end_layout
+
+\begin_layout Standard
+Nos hemos dados cuenta que para adoptar una metodologia ágil se debe de
+ tener necesariamente experiencia trabajando con metodologias tradicionales,
+ ademas el uso de una metodologia tradicional es esencial al inicio de un
+ equipo de desarrollo de software
+\end_layout
+
+\begin_layout Standard
+eventualmente las metodologias ágiles se deben aplicar en proyectos donde
+ exista mucha incertidumbre, en donde los requesitos no se conocen con exactitud.
+ 
+\end_layout
+
+\begin_layout Standard
+Las metodologias tradicionales obligan al cliente a tomar decisiones al
+ inicio del poyecto
 \end_layout
 
 \begin_layout Chapter

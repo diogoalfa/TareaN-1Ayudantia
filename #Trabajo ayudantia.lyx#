@@ -226,7 +226,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /Users/Diogo/Desktop/Captura de pantalla 2013-10-16 a la(s) 20.09.17.png
+	filename cuadro.png
 	scale 60
 	rotateOrigin leftTop
 
@@ -258,6 +258,49 @@ Cuadro Comparativo entre Metodología Agil y Tradicional
 
 \begin_layout Chapter
 Conclusión 
+\end_layout
+
+\begin_layout Standard
+Ø El retrasar las decisiones en un proyecto de software permite potenciar
+ el valor del producto tanto para el cliente como al equipo o empresa que
+ desarrolla
+\end_layout
+
+\begin_layout Standard
+Ø Las metodologías tradicionales son pesadas y que suponen obligatoriamente
+ un “todo o nada”.
+ 
+\end_layout
+
+\begin_layout Standard
+Ø Las metodologías ágiles son más modernas y mejores que cualquiera de las
+ tradicionales.
+ 
+\end_layout
+
+\begin_layout Standard
+Ø Las actividades “de calidad” son inútiles y sólo funcionan en equipos
+ grandes, no se adaptan a nuestros proyectos.
+ Cualquier cosa que nos quite tiempo de tareas técnicas (programar, etc.)
+ es una pérdida de tiempo.
+\end_layout
+
+\begin_layout Standard
+Ø Las metodologías ágiles se deberían aplicar en proyectos donde exista
+ mucha incertidumbre donde el entorno es volátil, donde los requisitos no
+ se conocen con exactitud, mientras que las metodologías tradicionales obligan
+ al cliente a tomar las decisiones al inicio del proyecto.
+\end_layout
+
+\begin_layout Standard
+- nos hemos dados cuenta que para adoptar una metodologia ágil se debe de
+ tener necesaria mente experiencia trabajando con metodologias tradicionales,
+ ademas el uso de una metodologia tradicional es esencial al inicio de un
+ equipo de desarrollo de software
+\end_layout
+
+\begin_layout Standard
+eventualmente las metodologias ágiles se deben
 \end_layout
 
 \begin_layout Chapter
